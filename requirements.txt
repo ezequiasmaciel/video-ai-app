@@ -4,3 +4,4 @@ requests>=2.32
 python-dotenv>=1.0
 spacy>=3.7
 tqdm>=4.66
+imageio-ffmpeg>=0.4.8
